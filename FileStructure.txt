@@ -1,0 +1,18 @@
+Weighted Directed Graph/
+  ├─.vscode/ (ignored by git)
+  ├─ bin/
+  ├─ build/
+  ├─ include/
+  │  ├─ GraphWD.hpp
+  │  └─ TextColors.hpp
+  ├─ lib/
+  ├─ src/
+  │  ├─ Algorithms.cpp
+  │  ├─ Booleans.cpp
+  │  ├─ Getters.cpp
+  │  ├─ InsertRemove.cpp
+  │  ├─ Output.cpp
+  │  └─ Traversals.cpp
+  ├─ .gitignore
+  ├─ FileStructure.txt
+  └─ Makefile
