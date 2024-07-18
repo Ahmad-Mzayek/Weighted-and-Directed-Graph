@@ -1,11 +1,13 @@
 Weighted Directed Graph/
-  ├─.vscode/ (ignored by git)
   ├─ bin/
+  │  └─ .gitkeep
   ├─ build/
+  │  └─ .gitkeep
   ├─ include/
   │  ├─ GraphWD.hpp
   │  └─ TextColors.hpp
   ├─ lib/
+  │  └─ .gitkeep
   ├─ src/
   │  ├─ Algorithms.cpp
   │  ├─ Booleans.cpp
